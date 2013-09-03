@@ -1,7 +1,7 @@
 	
 /*****************************************************************
 *	Name    : onGestureFunction
-*	Author  : Kony Solutions
+*	Author  : Kony
 *	Purpose : To give an alert as which gesture is performed on the form 'frmGestures'
 ******************************************************************/
 
@@ -64,7 +64,7 @@ function onGestureFunction(commonWidget,gestureInfo)// The callback function whe
 
 /*****************************************************************
 *	Name    : GenericGestureHandler
-*	Author  : Kony Solutions
+*	Author  : Kony
 *	Purpose : To set gestures(Double tap,Swipe,Long press) to the form 'frmGestures'
 ******************************************************************/
 
