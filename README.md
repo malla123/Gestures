@@ -8,12 +8,14 @@ This Application will showcase the features of Gesture API.
 This Application will showcase the features of Gesture API.
 
 # Supported platforms:
-* iPhone
-* iPad
-* Android
-* Android tablet
-* SPA iPhone
-* SPA iPad
-* SPA Android
-* SPA Android tablet 
-
+**Mobile**
+ * Android
+ * iPhone
+ * SPA Android
+ * SPA iPhone
+ 
+**Tablet** 
+ * Anroid
+ * iPad
+ * SPA iPad
+ * SPA Android
