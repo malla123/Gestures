@@ -15,7 +15,7 @@ This Application will showcase the features of Gesture API.
  * SPA iPhone
  
 **Tablet** 
- * Anroid
+ * Android
  * iPad
  * SPA iPad
  * SPA Android
