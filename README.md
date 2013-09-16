@@ -13,6 +13,8 @@ This Application will showcase the features of Gesture API.
  * iPhone
  * SPA Android
  * SPA iPhone
+ * BB7
+ * SPA BB7
  
 **Tablet** 
  * Android
