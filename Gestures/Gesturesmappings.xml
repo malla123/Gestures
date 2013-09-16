@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<application name="Gestures" id="Gestures">
-    <container type="form" id="frmGestures" displayname="Form"/>
-    <container type="form" id="frmGestures" displayname="Form"/>
-    <container type="form" id="frmGestures" displayname="Form"/>
-    <container type="form" id="frmAppDescription" displayname="Form"/>
-    <container type="form" id="frmGestures" displayname="Form"/>
+<application id="Gestures" name="Gestures">
+    <container displayname="Form" id="frmGestures" type="form"/>
+    <container displayname="Form" id="frmGestures" type="form"/>
+    <container displayname="Form" id="frmGestures" type="form"/>
+    <container displayname="Form" id="frmAppDescription" type="form"/>
+    <container displayname="Form" id="frmGestures" type="form"/>
     <globalsequences/>
     <skins/>
 </application>

@@ -785,11 +785,11 @@
             </location>
             <size>
                 <width>448</width>
-                <height>57</height>
+                <height>88</height>
             </size>
             <sizePercent>
                 <width>100</width>
-                <height>13</height>
+                <height>20</height>
             </sizePercent>
             <skinId>sknHbxWhiteSampleApp</skinId>
             <focusSkinId>sknHbxWhiteSampleApp</focusSkinId>
@@ -1435,7 +1435,7 @@
                 </location>
                 <size>
                     <width>446</width>
-                    <height>55</height>
+                    <height>86</height>
                 </size>
                 <sizePercent>
                     <width>100</width>
@@ -1857,7 +1857,7 @@
                         <unit>%</unit>
                     </spaipad>
                     <spaipad_override>false</spaipad_override>
-                    <spatablet_android_override>false</spatablet_android_override>
+                    <spatablet_android_override>true</spatablet_android_override>
                     <spatablet_windows_override>false</spatablet_windows_override>
                     <symbian>
                         <left>0</left>
@@ -1871,15 +1871,15 @@
                         <left>0</left>
                         <right>0</right>
                         <top>0</top>
-                        <bottom>0</bottom>
+                        <bottom>5</bottom>
                         <unit>%</unit>
                     </tabRCAndroid>
-                    <tablet_rc_android_override>false</tablet_rc_android_override>
+                    <tablet_rc_android_override>true</tablet_rc_android_override>
                     <tabspaAndroid>
                         <left>0</left>
                         <right>0</right>
                         <top>0</top>
-                        <bottom>0</bottom>
+                        <bottom>5</bottom>
                         <unit>%</unit>
                     </tabspaAndroid>
                     <tabspaWindows>
@@ -2073,7 +2073,7 @@
                     </size>
                     <sizePercent>
                         <width>100</width>
-                        <height>49</height>
+                        <height>31</height>
                     </sizePercent>
                     <skinId>sknLblBlackSampleApp</skinId>
                     <focusSkinId>Skin Defaults</focusSkinId>
@@ -2240,7 +2240,7 @@
                         <tabspaAndroid>
                             <left>5</left>
                             <right>5</right>
-                            <top>5</top>
+                            <top>0</top>
                             <bottom>0</bottom>
                             <unit>%</unit>
                         </tabspaAndroid>
@@ -2486,7 +2486,7 @@
                             <unit>%</unit>
                         </spaipad>
                         <spaipad_override>false</spaipad_override>
-                        <spatablet_android_override>false</spatablet_android_override>
+                        <spatablet_android_override>true</spatablet_android_override>
                         <spatablet_windows_override>false</spatablet_windows_override>
                         <symbian>
                             <left>1</left>
@@ -2666,12 +2666,14 @@
                     <parent_wrapping>word</parent_wrapping>
                     <parent_longText>false</parent_longText>
                     <parent_renderAsAnchor>false</parent_renderAsAnchor>
+                    <overrideProperties>KButton.android_contentalignment</overrideProperties>
                     <iphone_wrapping>0</iphone_wrapping>
                     <iphone_contentAlignment>0</iphone_contentAlignment>
                     <iphone_longtext>false</iphone_longtext>
                     <ipad_longtext>false</ipad_longtext>
                     <ipad_wrapping>0</ipad_wrapping>
                     <ipad_content_align>0</ipad_content_align>
+                    <c_ToolTip></c_ToolTip>
                     <tooltip></tooltip>
                     <bb_longtext>false</bb_longtext>
                     <bb_content_align>0</bb_content_align>
@@ -3376,6 +3378,7 @@
             <bb_content_align>1</bb_content_align>
             <bb_display_text>true</bb_display_text>
             <j2me_content_align>1</j2me_content_align>
+            <c_ToolTip></c_ToolTip>
             <tooltip></tooltip>
             <android_display_text>true</android_display_text>
             <android_pressed_skin>Skin Defaults</android_pressed_skin>
@@ -4048,6 +4051,7 @@
             <ipad_longtext>false</ipad_longtext>
             <ipad_wrapping>0</ipad_wrapping>
             <ipad_content_align>0</ipad_content_align>
+            <c_ToolTip></c_ToolTip>
             <tooltip></tooltip>
             <bb_longtext>false</bb_longtext>
             <bb_content_align>0</bb_content_align>
